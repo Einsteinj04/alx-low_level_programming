@@ -1,9 +1,9 @@
 #include <stdio.h>
-
+#include "main.h"
+#include "_putchar.c"
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ *print_alphabet_x10 - function to print 10 times the alphabet
+ * Return: Always 0
  */
 
 /*int main(void)
